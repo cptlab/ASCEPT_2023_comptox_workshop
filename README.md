@@ -2,7 +2,7 @@ This repository contains material for the "Computational toxicology: Transformin
 
 
 
-### Talk One: Using computers in toxicology education: Python for PK calculations
+### W106 - Using computers in toxicology education: Python for PK calculations
 A. [Single IV](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/PlasmaTime_SingleIV.ipynb)
 
 B. [Single Oral Dose](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/SingleOralDose.ipynb)
@@ -13,10 +13,10 @@ D. [Non-linear elimination](https://colab.research.google.com/github/sladem-tox/
 
 E. [Multiple Oral Dose](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
 
-### Talk Two: Introduction to computational chemistry methods for toxicological modelling
+### W107 - Introduction to computational chemistry methods for toxicological modelling
 [Google Colab notebook](https://colab.research.google.com/drive/1LQgnHcJouPiH37uUyB9TPRXfn-YHuueC)
 
-### Talk Four: Machine learning QSAR for toxicity prediction
+### W109 - Machine learning QSAR for toxicity prediction
 [Google Colab notebook](https://colab.research.google.com/drive/1MiC7_DwoMslhDn708qJIiV-xYH-3lMfd)
 
 <p>
