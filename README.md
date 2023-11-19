@@ -1,4 +1,4 @@
-This repository will contain material for the "Computational toxicology: Transforming toxicity testing in the 21st century" workshop held during the 2023 ASCEPT Annual Scientific Meeting.
+This repository contains material for the "Computational toxicology: Transforming toxicity testing in the 21st century" workshop held during the 2023 ASCEPT Annual Scientific Meeting.
 
 
 
@@ -13,6 +13,11 @@ D. [Non-linear elimination](https://colab.research.google.com/github/sladem-tox/
 
 E. [Multiple Oral Dose](https://colab.research.google.com/github/sladem-tox/PK_calcs/blob/main/MultipleOralDose.ipynb)
 
+### Talk Two: Introduction to computational chemistry methods for toxicological modelling
+[Google Colab notebook](https://colab.research.google.com/drive/1LQgnHcJouPiH37uUyB9TPRXfn-YHuueC)
+
+### Talk Four: Machine learning QSAR for toxicity prediction
+[Google Colab notebook](https://colab.research.google.com/drive/1MiC7_DwoMslhDn708qJIiV-xYH-3lMfd)
 
 <p>
 <img src="qrcode_github.com.png" alt="QRcode">
